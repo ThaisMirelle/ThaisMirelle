@@ -1,6 +1,7 @@
 <h1 align="center"> Thaís Mirelle :woman_technologist:</h1>
 
-<strong>Sobre:</strong><p>
+**Sobre:**
+<p>
   Hey, me chamo Thaíz, sou entusiasta da tecnologia e aspirante a desenvolvedora, sigo em processo de aprendizado constante.
 <br><p>
   Estudo Administração na Faculdade Frassinetti do Recife e atualmente me encontro no último período de graduação, sempre tive uma grande sede de conhecimento e de desenvolver minhas habilidades, no início deste ano (2021) resolvi encarar a jornada da programação de forma autodidata, e desde então tenho me apaixonado cada vez mais, nessa caminhada tenho encarado oportunidades acrescedoras e estimulantes que constantemente tem contribuído para meu desenvolvimento pessoal e profissional.
