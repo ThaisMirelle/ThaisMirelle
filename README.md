@@ -4,7 +4,7 @@
 <p>
   Hey, me chamo Thaíz, sou entusiasta da tecnologia e aspirante a desenvolvedora, sigo em processo de aprendizado constante.
 <br><p>
-  Estudo Administração na Faculdade Frassinetti do Recife e atualmente me encontro no último período de graduação, sempre tive uma grande sede de conhecimento e de desenvolver minhas habilidades, no início deste ano (2021) resolvi encarar a jornada da programação de forma autodidata, e desde então tenho me apaixonado cada vez mais, nessa caminhada tenho encarado oportunidades acrescedoras e estimulantes que constantemente tem contribuído para meu desenvolvimento pessoal e profissional.
+  Estudo Administração na Faculdade Frassinetti do Recife e atualmente me encontro no último período de graduação, sempre tive uma grande sede de conhecimento e de desenvolver minhas habilidades, no início deste ano (2022) resolvi encarar a jornada da programação de forma autodidata, e desde então tenho me apaixonado cada vez mais, nessa caminhada tenho encarado oportunidades acrescedoras e estimulantes que constantemente tem contribuído para meu desenvolvimento pessoal e profissional.
  <br>
   Tenho como norte aprender cada vez mais e devolver meu conhecimento a sociedade impactando-a positivamente!
 
